@@ -14,7 +14,7 @@ class _EmpresaState extends State<Empresa> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Empresa"),
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.green,
       ),
       body:Column(
         children: [
